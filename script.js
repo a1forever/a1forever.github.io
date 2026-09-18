@@ -22,15 +22,15 @@ function makeNewsArticle(image, date, headline, content) {
     ` 
     )
 }
-/*makeNewsArticle(
-    "oxitest.png", 
-    "16-9-2026", 
-    "Albequerque New Mexico", 
-    "Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico, Albequerque New Mexico"
-)*/
 makeNewsArticle(
     "diddyinternet.jpg", 
     "21-9-2026", 
     "Ιστοσελίδα τάξης βγήκε δημόσια", 
     "Η επίσημη ιστοσελίδα του Α'1 γυμνασίου, γνωστή ως Α'1 FOREVER, φτιαγμένη από τον Γιώργο Αρούκατο, βγήκε δημόσια για όλη την τάξη του Α'1 γυμνασίου, ως η επίσημη σελίδα της τάξης."
+)
+makeNewsArticle(
+    "bus.png",
+    "18-9-2026",
+    "Ανακοινώθικε εκδρομή",
+    "Σήμερα ανακοινώθηκε εκδρομή για τα τμήματα της Α' Γυμνασίου σε άγνωστο προορισμό. Η εκδρομή προβλέπεται να γίνει σε 1-2 εβδομάδες. Θα ακολουθήσουν ενημερώσεις την ερχόμενη εβδομάδα."
 )
