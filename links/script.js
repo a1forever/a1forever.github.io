@@ -32,7 +32,7 @@ makeLink(
 )
 makeLink(
     "https://openguessr.com",
-    "GeoGuessR",
+    "GeoGuessR/OpenGuessR",
     "Trending",
     "guessr.png"
 )
